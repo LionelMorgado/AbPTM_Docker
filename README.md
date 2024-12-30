@@ -4,7 +4,7 @@
 Dockerfile to create a docker image for the AbPTM R/Shiny app.
 
 ## Computational environment
-The present dockerfile was developed and tested using PowerShell and Docker 24.0.7 on Windows 10.
+The present Dockerfile was developed and tested using PowerShell and Docker 24.0.7 on Windows 10.
 
 ## How to run
 ### Step1: Get the AbPTM source code
