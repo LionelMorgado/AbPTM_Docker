@@ -1,7 +1,7 @@
 # AbPTM_Docker
 
 ## Short description
-Dockerfile to create a docker image for the AbPTM R/Shiny app
+Dockerfile to create a docker image for the AbPTM R/Shiny app.
 
 ## Computational environment
 The following dockerfile was developed and tested using PowerShell and Docker 24.0.7 on Windows 10.
