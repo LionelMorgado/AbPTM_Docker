@@ -1,4 +1,5 @@
 # AbPTM_Docker
+![AbPTM_prtscn](https://github.com/user-attachments/assets/37f85fef-e2d5-422a-875e-e35896b2fbaa)
 
 ## Short description
 Dockerfile to create a docker image for the AbPTM R/Shiny app.
