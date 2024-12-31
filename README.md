@@ -22,5 +22,6 @@ Type in a terminal the commands below:
 
 In case of success the R/Shiny app running inside the container will be accessible via a web browser at http://localhost:8180.
 
+## Prebuilt docker image availability
 If desired, an already built docker image can be pulled from DockerHub by running in terminal:
 >docker image pull liodocker/abptm_docker:latest
